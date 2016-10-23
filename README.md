@@ -1,5 +1,5 @@
 # hashfunc2
-
+```
 if buffer length <= 16
   call sub_107E474
   call sub_1080408
@@ -59,3 +59,4 @@ elif buffer length <= 128
   call sub_107F488
   call sub_107F7D8
   call sub_107FADC
+```
